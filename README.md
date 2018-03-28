@@ -31,6 +31,19 @@ If you want to use the Cabin font (see below), you'll either need a recent TeXli
 
 _Not for the faint hearted!_
 
+
+Example
+-----------
+
+The file `example.tex` is provided
+
+```bash
+  $ make 
+  $ evince example.pdf
+```
+
+
+
 Usage
 -----
 Once installed, you can use the theme as:
